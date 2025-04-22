@@ -36,4 +36,4 @@ Obrigado por usar o Gerador de Senhas!
 
 ## Autor
 
-Criado por VIR - ASANTIAGO.
+Criado por Akira Santiago.
